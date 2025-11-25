@@ -49,6 +49,26 @@ Procedure for Load test:
 
 Tabulation for Open Circuit Test
 
+\begin{table}[h!]
+\centering
+\begin{tabular}{|c|c|c|}
+\hline
+\textbf{S.No.} & \textbf{Current (A)} & \textbf{Voltage (V)} \\
+\hline
+1 & 1.2 & 220 \\
+\hline
+2 & 2.8 & 212 \\
+\hline
+3 & 3.2 & 208 \\
+\hline
+4 & 3.6 & 205 \\
+\hline
+5 & 5.5 & 200 \\
+\hline
+6 & 7.0 & 195 \\
+\hline
+\end{tabular}
+\end{table}
 Tabulation for Load Test:
 
 Model graph:
