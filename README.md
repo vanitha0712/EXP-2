@@ -71,6 +71,15 @@ Tabulation for Load Test:
 | 7     | 138         | 0.28        |
 | 8     | 142         | 0.30        |
 
+
+| COMPONENTS | PROTEUS | SPECIFICATION |
+| :--- | :--- | :--- |
+| AC supply | Vsine | Amplitude = 230V |
+| Two-way switch | SPDT | Frequency = 50 Hz |
+| Lamp | Animated | 230V |
+
+
+
 Model graph:
 
 <img width="857" height="726" alt="Screenshot 2025-11-26 000237" src="https://github.com/user-attachments/assets/2fd4d146-ded5-4004-9487-df483114a55c" />
